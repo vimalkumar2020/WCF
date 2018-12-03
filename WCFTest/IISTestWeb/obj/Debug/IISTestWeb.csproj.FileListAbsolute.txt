@@ -1,0 +1,6 @@
+C:\Datas\Assignments\21\Assignment\WCFTest\IISTestWeb\bin\IISTestWeb.dll.config
+C:\Datas\Assignments\21\Assignment\WCFTest\IISTestWeb\bin\IISTestWeb.dll
+C:\Datas\Assignments\21\Assignment\WCFTest\IISTestWeb\bin\IISTestWeb.pdb
+C:\Datas\Assignments\21\Assignment\WCFTest\IISTestWeb\obj\Debug\IISTestWeb.csprojResolveAssemblyReference.cache
+C:\Datas\Assignments\21\Assignment\WCFTest\IISTestWeb\obj\Debug\IISTestWeb.dll
+C:\Datas\Assignments\21\Assignment\WCFTest\IISTestWeb\obj\Debug\IISTestWeb.pdb

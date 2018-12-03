@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="a8d590f8-b6c5-417d-9447-fcd0a7c47648" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:58201/JobService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="JobService.disco" MetadataType="Disco" ID="5d6a278d-20c3-4fac-88aa-ccfcb9f481a0" SourceId="1" SourceUrl="http://localhost:58201/JobService.svc?disco" />
+    <MetadataFile FileName="JobService.wsdl" MetadataType="Wsdl" ID="c6212293-c2fe-447b-bfd0-0edae8eef09c" SourceId="1" SourceUrl="http://localhost:58201/JobService.svc?wsdl" />
+    <MetadataFile FileName="JobService.xsd" MetadataType="Schema" ID="1d1ba298-4c88-45e8-924f-11682f9ee154" SourceId="1" SourceUrl="http://localhost:58201/JobService.svc?xsd=xsd2" />
+    <MetadataFile FileName="JobService1.xsd" MetadataType="Schema" ID="cbb464f7-8f6a-4e80-bd3f-ecaff7e50836" SourceId="1" SourceUrl="http://localhost:58201/JobService.svc?xsd=xsd1" />
+    <MetadataFile FileName="JobService2.xsd" MetadataType="Schema" ID="c17dbabf-850c-4e74-b9d6-9ccf52206797" SourceId="1" SourceUrl="http://localhost:58201/JobService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

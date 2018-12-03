@@ -1,0 +1,31 @@
+﻿@using MvcApplication1.Models;
+@model MvcApplication1.Models.TcpHttpModel
+@{
+    
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+    <script src="~/Scripts/jquery-1.8.2.min.js"></script>
+
+</head>
+<body>
+    <form id="form1">
+        <h1>Task1</h1>
+        <div>
+            @Html.ActionLink("Hello Tcp", "GetTcp");
+            @Html.ActionLink("Hello Http", "GetHttp");
+        </div>
+        <div>@Model.HelloMessage</div>
+        <br/>
+        <h1>Task2</h1>
+        <div>
+            @Html.ActionLink("Day of Week Tcp", "GetWeekTcp");
+            @Html.ActionLink("Day of Week Http", "GetWeekHttp");
+        </div>
+        <div>@Model.WeekMessage</div>
+    </form>
+</body>
+</html>
